@@ -3,7 +3,7 @@
 ## Added cheats
 |  |  |
 | ---- | -------------|
-| Change Equips | Change badges anywhere |
+| Change Equips | Change badges anywhere. Use the top face button to get/upgrade/remove badges |
 | List Objects | List all objects displayed on screen |
 | Save State: Load | Load save state created by Save State: Perform |
 | Spawn Battery | Spawns a battery at the player's position |
